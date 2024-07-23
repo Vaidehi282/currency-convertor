@@ -1,4 +1,4 @@
-# currency-convertor
+# Currency-Convertor
 
 A web-based currency converter application built using HTML, CSS, and JavaScript. Easily convert between different currencies with real-time exchange rates and a user-friendly interface.
 
